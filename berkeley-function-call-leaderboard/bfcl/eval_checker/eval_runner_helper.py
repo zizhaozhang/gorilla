@@ -401,6 +401,18 @@ MODEL_METADATA_MAPPING = {
         "Google",
         "Proprietary",
     ],
+    "gemini-1.5-pro-002": [
+        "Gemini-1.5-Pro-002 (FC)",
+        "https://deepmind.google/technologies/gemini/#introduction",
+        "Google",
+        "Proprietary",
+    ],
+    "gemini-1.5-flash-002": [
+        "Gemini-1.5-Pro-002 (FC)",
+        "https://deepmind.google/technologies/gemini/#introduction",
+        "Google",
+        "Proprietary",
+    ],
     "gpt-4-0613-FC": [
         "GPT-4-0613 (FC)",
         "https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo",
